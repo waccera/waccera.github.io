@@ -1,0 +1,15 @@
+#line {
+	border: solid 0.5px grey;
+}
+
+.carousel-inner img {
+	height:500px;
+	width: 100%;
+}
+#showcase img{
+	height:200px;
+	width: 250px;	
+}
+body {
+	background-color: lightgrey;
+}
